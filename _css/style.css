@@ -9,7 +9,8 @@ a:visited { text-decoration: none; color:black; }
 
 
 body {
-	background: linear-gradient(to left, #83a4d4 , #b6fbff);
+	background: #3F51B5;
+	font-family: 'Abel', Helvetica, sans-serif;
 }
 
 .modules 
@@ -37,14 +38,34 @@ body {
   
 }
 
-.header {
+header {
+	display: flex;
+	height: 10%;
+	background: #f2f2f2;
+	justify-content: space-between;
+	align-items: center;
 	border-style: hidden;
-	padding: 15px 0px 15px 0px;
+	padding: 15px 0px 15px 15px;
 	background: white;
 	font-color: #83a4d4;
-	border-bottom-right-radius: 10px;
-	border-bottom-left-radius: 10px;
+}
 
+header img {
+	height: 100px;
+	margin-right: 1em;
+}
+
+header > h3 {
+	justify-content: flex-start;
+}
+
+header nav {
+	display: flex;
+	justify-content: flex-end;
+}
+
+header nav a {
+	padding-right: 20px;
 }
 
 h1{
