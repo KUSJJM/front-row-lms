@@ -1,14 +1,54 @@
+/* CSS Reset */
+* {
+	margin: 0;
+}
+
+
+
 body {
-	background-color: lightblue;
+	background: linear-gradient(to left, #83a4d4 , #b6fbff);;
 }
 
 
 .modules 
 {
 	float: left;
+	padding: 50px;
+	padding-bottom: 70pc;
+	border: 1px solid black;
+	background: #FFFFFF;
+	border-radius: 25px;
+
 }
 
 .information
 {
-foat : right;
+  margin-left: 300px;
+  margin-right:20px;
+  padding: 20px;
+  border: 0px solid black;
+  background: #FFFFFF;
+  border-radius: 25px;
+  
+}
+
+.header {
+	border-style: hidden;
+	padding-top: 4px;
+	background: white;
+	font-color: #83a4d4;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+
+}
+
+h1{
+	color: #1395D1;
+	font-family: 'Helvetica';
+}
+
+h3{
+	color: #1395D1;
+	font-family: Helvetica;
+
 }

@@ -12,7 +12,7 @@
 	
 	<div class="modules">
       <ul>
-      	 <li>Module 1<!-- addlinks --></li>
+      	 <li>Module 2<!-- addlinks --></li>
 	      <ul>
 		    <li><a href="Announcements.html">Announcements</a><!-- addlinks --></li>
 			<li><a href="ModuleGuide.html">Module Guide</a><!-- addlinks --></li>
@@ -22,7 +22,7 @@
 			<li><a href="Resources.html">Resources</a><!-- addlinks --></li>
 			<li>Reading List<!-- addlinks --></li>
 		  </ul>
-	    <li>Module 2<!-- addlinks --></li>
+	    <li>Module 1<!-- addlinks --></li>
 		
 	    <li>Module 3<!-- addlinks --></li>
 		
