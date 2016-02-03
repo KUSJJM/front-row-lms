@@ -3,6 +3,7 @@
  <head>
  	<title>Kingston LMS </title>
  	<link rel="stylesheet" type="text/css" href="style.css">
+ 	<style> .modules{ list-style-type: none;} </style>
  </head>
    <body>
    	<div class="header">
