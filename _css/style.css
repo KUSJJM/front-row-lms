@@ -3,7 +3,7 @@
 	margin: 0;
 }
 
-a { color:black}
+a { color:#1395D1}
 
 a:visited { text-decoration: none; color:black; }
 
@@ -52,6 +52,7 @@ header {
 	border-style: hidden;
 	padding: 15px 0px 15px 15px;
 	font-color: #83a4d4;
+	
 }
 
 header img {
