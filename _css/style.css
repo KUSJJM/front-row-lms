@@ -90,4 +90,27 @@ ul
     list-style-position:inside;
 }
 
+.profile {
+   float: right;
+}
+
+ .header h4 {
+ 	float: right;
+ 	background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+ }
+
+.header h4:hover, .header h4:focus {
+    background-color: #83a4d4;
+}
+
+.header h4 {
+    position: relative;
+    display: inline-block;
+}
+
 
