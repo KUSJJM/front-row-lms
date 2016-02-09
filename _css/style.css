@@ -140,7 +140,13 @@ nav ul:after {
 	color: #000000; text-decoration: none;
 	}
 
-	n
+	nav ul {
+	  position: absolute;
+      top: 0;
+      right: 0;
+	}
+
+
 
  
 

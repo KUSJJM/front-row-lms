@@ -1,0 +1,156 @@
+/* CSS Reset */
+* {
+	margin: 0;
+}
+
+a { color: white}
+
+a:visited { text-decoration: none; color:white; }
+
+
+body {
+	background: #354B64;
+	font-family: 'Abel', Helvetica, sans-serif;
+
+}
+p
+{
+  font-color:white;
+}
+
+.modules 
+{
+	margin-left: 20px;
+	margin-top: 15px;
+	float: left;
+	padding: 50px;
+	padding-bottom: 230px;
+	border: 0px solid black;
+	background: #2F445D;
+	border-radius: 10px;
+	position:fixed;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+}
+
+.information
+{
+  margin: 15px 20px 0px 320px;
+  padding: 20px;
+  border: 0px solid black;
+  background: #2F445D;
+  border-radius: 10px;
+  overflow:scroll;
+  
+}
+
+header {
+	display: flex;
+	height: 10%;
+	background: #fff;
+	background-image: url("../kingston.jpg"); 
+	justify-content: space-between;
+	align-items: center;
+	border-style: hidden;
+	padding: 15px 0px 15px 15px;
+	font-color: #83a4d4;
+	
+}
+
+header img {
+	height: 100px;
+	margin-right: 1em;
+}
+
+header > h3 {
+	justify-content: flex-start;
+}
+
+header nav {
+	display: flex;
+	justify-content: flex-end;
+}
+
+header nav a {
+	padding-right: 20px;
+}
+
+h1{
+	color: #000000;
+	font-family: 'Helvetica';
+}
+
+h3{
+	color: #1395D1;
+	font-family: Helvetica;
+
+}
+
+ul
+{ 
+	list-style-type: none; 
+    list-style-position:inside;
+}
+
+.profile {
+   float: right;
+}
+
+
+
+
+nav ul ul {
+	display: none;
+}
+
+nav ul li:hover > ul {
+		display: block;
+	}
+
+nav ul {
+	background: #3399CC; 
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+	padding: 0 20px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}	
+
+nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+
+	nav ul li:hover {
+		background: #F8F8F8;
+		background: linear-gradient(top, #F8F8F8 0%, #E0E0E0 40%);
+		background: -moz-linear-gradient(top, #F8F8F8 0%, #E0E0E0 40%);
+		background: -webkit-linear-gradient(top, #F8F8F8 0%,#E0E0E0 40%);
+	}
+
+    /*Colour when you hover over*/
+	nav ul li:hover a {
+			color: #585858;
+		}
+
+    nav ul li a {
+	display: block; padding: 9px 15px;
+	color: #000000; text-decoration: none;
+	}
+
+	nav ul {
+	  position: absolute;
+      top: 0;
+      right: 0;
+	}
+
+	/* Test button for Lecturer */
+
+	.information div {
+     float: right;
+	}
+
+ 
+
