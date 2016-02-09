@@ -3,14 +3,19 @@
 	margin: 0;
 }
 
-a { color:#1395D1}
+a { color: white}
 
-a:visited { text-decoration: none; color:#1395D1; }
+a:visited { text-decoration: none; color:white; }
 
 
 body {
-	background: #1395D1;
+	background: #354B64;
 	font-family: 'Abel', Helvetica, sans-serif;
+
+}
+p
+{
+  font-color:white;
 }
 
 .modules 
@@ -21,7 +26,7 @@ body {
 	padding: 50px;
 	padding-bottom: 230px;
 	border: 0px solid black;
-	background: #FFFFFF;
+	background: #2F445D;
 	border-radius: 10px;
 	position:fixed;
 }
@@ -36,7 +41,7 @@ body {
   margin: 15px 20px 0px 320px;
   padding: 20px;
   border: 0px solid black;
-  background: #FFFFFF;
+  background: #2F445D;
   border-radius: 10px;
   overflow:scroll;
   
