@@ -1,4 +1,4 @@
- <html>
+<html>
  <head>
  	<title>Kingston LMS </title>
  	<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
@@ -49,10 +49,10 @@
 	</div>
 
 	<div class = "information">
-
-    <div>
-    <button><a href="LectureAnnouncement1 Edit">Edit</a></button>
-  </div>
+   
+   <div>
+    <button>Submit</button>
+   </div>
 
 	 <h2>Announcements</h2>
 	 <h3>Getting your first week's work into the Company Repo</h3>
@@ -109,7 +109,9 @@
              </p>
 	 <br>
      
-    </header>
+   <div>
+    <button>Upload</button>
+   </div>
 
 
      </div>
