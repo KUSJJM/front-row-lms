@@ -55,58 +55,9 @@
    </div>
 
 	 <h2>Announcements</h2>
-	 <h3>Getting your first week's work into the Company Repo</h3>
-	    <p>As a general reply to e-mails. Don't send me zips of the work you have done and not put into your company repository. Why not get it all together now and follow the Visual Guide I have posted to get it into "&lt;Your Company Name&gt;.git repository: ssh://git@secgit.kingston.ac.uk/&lt;your company name&gt;.git"
-
-          It is a step by step visual guide to the scenario where you have the work but it is not in the Git 'system'
-
-          For more detail complete Workshop 1
-
-          Regards
-          Dave</p>
-	<br>
-	 <h3>Software Company Membership</h3>
-	       <p>"Here is the company membership matrix for the Phase 1 Development Commencing in the workshops this morning. The key thing to note is that the final letter in the company name/code gives the Workshop that provides the location for the company. The word Football, Pet or Talent gives the application that the company needs to develop.
-
-           e.g.
-
-           CI5100-A_TY13_5-footballa-3 is in Workshop A [SB2023 at 9:00]
-           CI5100-A_TY13_5-petc-4 is in  Workshop C [SB3035 at 9:00] 
-           CI5100-A_TY13_5-talentb-7 is in Workshop B [SB2022 at 11:00] etc
-
-            Regards
-            Dave</p>
-	 <br>
-	 <h3>Attendance was poor at today's lecture</h3>
-	        <p>It actually turns out that it was not on your timetable for some reason. Ho hum...
-
-             See you at the demos (I hope)</p>
-     <br>
-     
-     <h3>Programming Demos on Friday 18th December</h3>
-	         <p>"These groups are doing there demos Friday 18th December.
-                 All members of the group must attend the demo.
-
-                  You should go to your workshop for your group at the beginning of the session. 
-
-                 Workshop A: SB2022 9:00am - A1, A2, A3, A4, A7, A8, A10, A11, A12, A13, A14
-                 Workshop B: SB2023 11:00am - B2, B4, B6, B8, B11, B12
-                 Workshop C: SB3035 11:00am - C2, C3, C4, C8, C10, C12
-
-                 It is important that you turn up at the beginning of the session to be assigned your location and marker.
-
-                 For the workshop Group lists follow the link below
-
-
-                  Regards
-                  David
-
-                  ps
-
-                  It is important you turn up at the beginning of the session
-                  All members of the group must attend the demo.
-
-             </p>
+	 
+    <div style="width:1400px;height:200px;border:1px solid #000;">Insert Announcement text...</div>
+             
 	 <br>
      
    <div>

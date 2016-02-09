@@ -148,8 +148,12 @@ nav ul:after {
 
 	/* Test button for Lecturer */
 
-	.information div {
+	.information div button {
      float: right;
+	}
+
+	.information div {
+		background-color: white;
 	}
 
  
