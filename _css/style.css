@@ -3,9 +3,9 @@
 	margin: 0;
 }
 
-a { color: white}
+a { color: #1395D1}
 
-a:visited { text-decoration: none; color:white; }
+a:visited { text-decoration: none; color:#1395D1; }
 
 
 body {
@@ -51,7 +51,7 @@ header {
 	display: flex;
 	height: 10%;
 	background: #fff;
-	background-image: url("../kingston.jpg"); 
+	background-image: url("../background-login.png"); 
 	justify-content: space-between;
 	align-items: center;
 	border-style: hidden;
