@@ -15,7 +15,7 @@ body {
 }
 p
 {
-  font-color:white;
+  color:white;
 }
 
 .modules 
@@ -24,7 +24,7 @@ p
 	margin-top: 15px;
 	float: left;
 	padding: 50px;
-	padding-bottom: 230px;
+	padding-bottom: 250px;
 	border: 0px solid black;
 	background: #2F445D;
 	border-radius: 10px;
@@ -33,12 +33,12 @@ p
 
 .bottom {
     position: absolute;
-    bottom: 0;
+    bottom: 25px;
 }
 
 .information
 {
-  margin: 15px 20px 0px 320px;
+  margin: 15px 20px 0px 280px;
   padding: 20px;
   border: 0px solid black;
   background: #2F445D;
@@ -51,11 +51,11 @@ header {
 	display: flex;
 	height: 10%;
 	background: #fff;
-	background-image: url("../kingston.jpg"); 
+	background-image: url("../background-login.png"); 
 	justify-content: space-between;
 	align-items: center;
 	border-style: hidden;
-	padding: 15px 0px 15px 15px;
+	padding: 15px 0px 10px 10px;
 	font-color: #83a4d4;
 	
 }
@@ -111,7 +111,7 @@ nav ul li:hover > ul {
 	}
 
 nav ul {
-	background: #3399CC; 
+	background: #2F445D; 
 	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
 	padding: 0 20px;  
 	list-style: none;
@@ -132,7 +132,7 @@ nav ul:after {
 
     /*Colour when you hover over*/
 	nav ul li:hover a {
-			color: #585858;
+			color: #F0FFFF;
 		}
 
     nav ul li a {
