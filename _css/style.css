@@ -153,19 +153,44 @@ nav ul:after {
 	
 	@media  screen and (max-width: 400px){
      body {background: #354B64}
-     header h3{
-     	font-size: 1.6em;
-     	height: 2.8em;
-     	line-height: 2.8em;
+     h3{
+     	display: center;
      }
+
+     .modules{
+     	display: none;
+     }
+
+     .information{
+     	width: 100%;
+     	margin: 0px
+  		padding: 0px;
+  		border: 0px solid black;
+	}
+
+	img{
+		display: none;
+	}
+     
 	}
 
 	@media  screen and (max-width: 768px){
      body {background: #354B64}
-     header h1{
-     	font-size: 1.6em;
-     	height: 2.8em;
-     	line-height: 2.8em;
+     h3{
+     	display: center;
+     }
+      .modules{
+     	display: none;
+     }
+
+     .information{
+     	width: 100%;
+     	margin: 0px
+  		padding: 0px;
+  		border: 0px solid black;
+     }
+     img{
+     	display: none;
      }
 	}
 
